@@ -7,7 +7,7 @@ the culture desk of Yedioth Ahronoth aggregated the ballots into a master list
 
 https://z.ynet.co.il/long/content/specials/100books/
 
-We transformed the canon into a machine-readable list and enriched it with metadata on authors and works (Author_English, Author_Wikidata_ID, Author_GND_ID, Title_English, Work_Wikidata_ID, Work_Goodreads_ID, Work_GND_ID, Publication_Date).
+We transformed the canon into a machine-readable list and enriched it with metadata on authors and works (Author_Wikidata_ID, Author_GND_ID, Work_Wikidata_ID, Work_Goodreads_ID, Work_GND_ID, Publication_Date).
 
 Our list contains 102 books, as we counted the Samuel Beckett "Triology - Molloy/Malone Dies/The Unnamable" as three separate entries.
 
